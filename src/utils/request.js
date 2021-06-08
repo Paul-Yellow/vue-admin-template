@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { MessageBox, Message } from 'element-ui'
+import { MessageBox, Message } from 'ant-design-vue'
 import store from '@/store'
 import { getToken } from '@/utils/auth'
 
